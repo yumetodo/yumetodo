@@ -2,9 +2,9 @@ Qiita: [@yumetodo](https://qiita.com/yumetodo)
 
 Blog: [yumetodoの旅とプログラミングとかの記録](https://yumetodo.hateblo.jp/)
 
-Mastodon: [@yumetodo@qiitadon.com](https://qiitadon.com/@yumetodo)
+Misskey(ActivityPub): [@yumetodo@misskey.dev](https://misskey.dev/@yumetodo)
 
-Twitter: [@yumetodo](https://twitter.com/yumetodo)
+X(旧Twitter): [@yumetodo](https://twitter.com/yumetodo)
 
 Teratail: [@yumetodo](https://teratail.com/users/yumetodo)
 
